@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://my-portfolio-gules-gamma-26.vercel.app/">Portfolio</a> -
-  <a href="https://www.linkedin.com/in/charan-romi-b87460222">LinkedIn</a> - 
+  <a href="https://www.linkedin.com/in/charan-romi-b87460222">LinkedIn</a> 
   
 </p>
 

@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://my-portfolio-gules-gamma-26.vercel.app/">Portfolio</a> -
   <a href="https://www.linkedin.com/in/charan-romi-b87460222">LinkedIn</a> - 
-  <a href="charanromi325@gmail.com">Contact me</a> 
+  
 </p>
 
 -----------------------------------------------------------
@@ -40,7 +40,7 @@ Operating Systems:
 <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=Windows&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Linux-EDBD2B?logo=Linux&logoColor=black&style=flat">&nbsp;
 
-## Certification Badges 🪶
+## Certification Badges 
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
 <a href="https://api.badgr.io/public/assertions/g9vN-1lkRyiH7ltnxGQ5Xw?identity__email=charanromi325%40gmail.com">
 <img src="./images/Postman API Fundamentals Student Expert.png" width="100px" height="100px" />

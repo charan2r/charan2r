@@ -9,8 +9,8 @@
 
 -----------------------------------------------------------
 👨🏻‍💻 **About Me**<img src="./images/3.jpg" min-width="200px" max-width="200px" width="250px" align="right"> <br>
-✨ Undergraduate Software Engineer | Full-Stack Developer <br>
-👯 Following Degree at Open University of Sri Lanka<br>
+✨ Undergraduate Software Engineer | Web Developer <br>
+👯 Final Year Undergraduate at Open University of Sri Lanka<br>
 
 
 

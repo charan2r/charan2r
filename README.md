@@ -1,8 +1,7 @@
 <h1 align="center"> Hello there, I'm Charan</a> </h1>
 
 
-<p align="center">
-  <a href="https://my-portfolio-gules-gamma-26.vercel.app/">Portfolio</a> -
+<p align="center"> 
   <a href="https://www.linkedin.com/in/charan44r">LinkedIn</a> 
   
 </p>
@@ -27,18 +26,12 @@ Languages and Web dev: <br>
 
 Frameworks and Libraries: 
 <img src="https://img.shields.io/badge/-React-0E7ACE?logo=react&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Laravel-0E7ACE?logo=laravel&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Next JS-0E7ACE?logo=nextjs&logoColor=white&style=flat">&nbsp;
 
 Tools and Platforms: 
 <img src="https://img.shields.io/badge/-Git-orange?logo=Git&logoColor=white&style=flat">&nbsp; 
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-25AEF4?logo=visualstudio&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Android Studio-green?logo=Android&logoColor=white&style=flat"> &nbsp;
 
-
-Operating Systems: 
-<img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=Windows&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Linux-EDBD2B?logo=Linux&logoColor=black&style=flat">&nbsp;
 
 ## Certification Badges 
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
@@ -50,12 +43,7 @@ Operating Systems:
 
 
 
-     
 
-<p align="left">  
-<a href=""><img src="https://img.shields.io/github/stars/charan2r?label=Star%20Gazers&style=social"></a>
-<a href=""><img src="https://img.shields.io/github/followers/charan2r?style=social"></a>
-</p>
 
 
 

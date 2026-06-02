@@ -1,14 +1,7 @@
 <h1 align="center">Hello There 👋, I'm Charan Romi</h1>
-<h3 align="center">Software Engineering Undergraduate at Open University </h3>
+<h3 align="center">Software Engineering Graduate at Open University </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charan2r&label=Profile%20views&color=0e75b6&style=flat" alt="charan" /> </p>
-<br>
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/charan44r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charan" height="30" width="40" /></a>
-</p>
 <br>
 
 ### Trophy Summary
